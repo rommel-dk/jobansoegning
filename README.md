@@ -3,4 +3,4 @@ Dette repository er ment som et sted hvor ansøgere til Rommel har et sted at la
 
 ## Aktive jobopslag
 
-* [Front-end juniorudvikler](https://rommel.dk/front-udvikler-soegelyset/)
+* [Front-end developer](https://rommel.dk/front-udvikler-soegelyset/)
